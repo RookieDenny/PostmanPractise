@@ -8,7 +8,7 @@
 #### 2.POST 新增商品<br>
 -使用 JSON Body 新增一筆測試商品（`title: MyTestProduct`）<br>
 -驗證回傳資料中 `title` 是否正確<br>
-####　3.PUT 修改商品<br>
+#### 3.PUT 修改商品<br>
 -修改指定商品 ID 的名稱為 `UpdatedTitle`<br>
 -驗證回傳資料的 `title` 欄位已變更<br>
 #### 4.DELETE 刪除商品<br>
